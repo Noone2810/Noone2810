@@ -75,8 +75,8 @@ _Hello there this is Nikhil A R. A Software Engineer looking at Data Science. I 
 - 🌏 Starting knowledge sharing through articles and others places
 - 📇 Footballer -> Biker -> Coder -> Data Freak
 - 📫 How to find me: 
-  - :bulb: [Medium articles](https://medium.com/@arnikhil0)
+  - :bulb: [Medium articles](https://medium.com/@noone2810)
   - :speaker: [Podcast](Not Yet!)
 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/mzedium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arnikhil0/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/mzedium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@noone2810/0" alt="Recent Article 0">
